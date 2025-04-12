@@ -1,0 +1,18 @@
+{
+    "projects": [
+        {
+            "project_name": "DemoProject",
+            "start_date": "2025-03-20",
+            "time": "09:00",
+            "lead_analyst_initials": "MR",
+            "description": "Demo for class",
+            "file_paths": [],
+            "is_locked": false,
+            "status": "active",
+            "created_date": "2025-03-20 12:09:15",
+            "last_edit_date": "2025-03-20 12:09:15",
+            "folder_path": "projects/DemoProject"
+        }
+    ],
+    "deleted_projects": []
+}
